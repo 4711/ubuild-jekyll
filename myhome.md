@@ -9,7 +9,8 @@ page_sections:
   navigation:
   - link: "/"
     link_text: home
-  - {}
+  - link: "/about"
+    link_text: about
 - template: simple-header
   block: header-3
 - template: 2-column-text
