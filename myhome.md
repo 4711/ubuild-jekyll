@@ -44,6 +44,7 @@ page_sections:
     headline: 'Not tricks, Michael, illusions. '
 - template: simple-footer
   block: footer-1
+  content: Copyright (c) 2018
 published: false
 
 ---
