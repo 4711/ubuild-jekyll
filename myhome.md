@@ -27,6 +27,21 @@ page_sections:
       like to be asked! Michael! I care deeply for nature. No, I did not kill Kitty.
       However, I am going to oblige and answer the nice officer's questions because
       I am an honest man with no secrets to hide.
+  col_2:
+    content: That's why you always leave a note! Say goodbye to these, because it's
+      the last time! I don't criticize you! And if you're worried about criticism,
+      sometimes a diet is the best defense.No… but I'd like to be asked! I'm a monster.
+      I'm a monster. Whoa, this guy's straight? I'm half machine. I'm a monster. Army
+      had half a day.I'm half machine. <br>I'm a monster. That's what it said on 'Ask
+      Jeeves.' Army had half a day. It's called 'taking advantage.' It's what gets
+      you ahead in life.There's so many poorly chosen words in that sentence. There's
+      only one man I've ever called a coward, and that's Brian Doyle Murray. No, what
+      I'm calling you is a television actor. But I bought a yearbook ad from you,
+      doesn't that mean anything anymore?Well, what do you expect, mother? Across
+      from where? That's why you always leave a note! There's only one man I've ever
+      called a coward, and that's Brian Doyle Murray. No, what I'm calling you is
+      a television actor.
+    headline: 'Not tricks, Michael, illusions. '
 - template: simple-footer
   block: footer-1
 published: false
